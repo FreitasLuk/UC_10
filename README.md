@@ -1,3 +1,8 @@
+Não esqueça que após clonar o projeto utilizar o comando:
+
+npm install (para que seja possivel baixar os pacotes do node modules.)
+
+
 # Exemplo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
